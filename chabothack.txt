@@ -1,3 +1,5 @@
 ChabotHacks
 
-Our team, comprising Chong Su, Rowan Wang, Gideon Tong, Matthew Denau, developed a versatile project called 'listless.' Out project primarily functions as a calender tools that facilitates setting reminders and notes for specific dates. It enables users to track completed household chores, set future reminders, and seamlessly sync data across multiple devices. Essentially, it's a comprehensive solution for organizing schedules and tasks efficiently.
+Our team, comprising Chong Su, Rowan Wang, Gideon Tong, Matthew Denau, developed a versatile project called 'listless.' Out project primarily functions as a calender tools that facilitates setting 
+reminders and notes for specific dates. It enables users to track completed household chores, set future reminders, and seamlessly sync data across multiple devices. Essentially, it's a comprehensive 
+solution for organizing schedules and tasks efficiently.
